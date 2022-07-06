@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title:  ORDS in MV
-subtitle: Open Reproducible Data Science and Statistics network
+subtitle: Open Reproducible Data Science and Statistics network in MV
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Open Reproducible Data Science and Statistics (ORDS) is a scientific network in Mecklenburg-Vorpommern.
@@ -63,7 +63,7 @@ plugins:
 
 author:
   name   : "ORDS-MV"
-  avatar : "/assets/images/ords-logo-large.jpg"
+  avatar : "/assets/images/ords-logo-large.png"
   bio    : "Open Reproducible Data Science and Statistics network in MV"
   location : "MV, Germany"
   links:
