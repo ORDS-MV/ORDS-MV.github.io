@@ -8,9 +8,9 @@ sidebar:
       University of Rostock<br>
       Faculty of Computer Science and Electrical Engineering<br>
       Institute of Communications Engineering<br>
-      [to the Website](https://www.int.uni-rostock.de/Staff-Info.23+B6JmNIYXNoPTBjMDE3Njg3NjIyYWY0ZjNkOGNiOTM3ZTdjNWM1OWM0JnR4X2pwc3RhZmZfcGkxJTVCc2hvd1VpZCU1RD0xMjM_.0.html)
+      [to the Website](https://www.int.uni-rostock.de/Staff-Info.23+B6JmNIYXNoPTBjMDE3Njg3NjIyYWY0ZjNkOGNiOTM3ZTdjNWM1OWM0JnR4X2pwc3RhZmZfcGkxJTVCc2hvd1VpZCU1RD0xMjM_.0.html)<br><br>
 
-      ** Dr. rer. nat. Anja Eggert**<br>
+      **Dr. rer. nat. Anja Eggert**<br>
       Leibniz Institute for Farm Animal Biology (FBN)<br>
       Institute of Genetics and Biometry<br>
       Head of the Service Group Statistical Counselling<br>
