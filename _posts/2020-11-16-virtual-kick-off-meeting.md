@@ -1,6 +1,6 @@
 ---
 title: "Virtual kick off meeting of the ORDS network on 1st December 2020"
-date: 2020-12-01T09:00:00+01:00
+date: 2020-11-16T09:00:00+01:00
 categories:
   - blog
 tags:
@@ -9,6 +9,11 @@ tags:
   - workshop
   - event
 ---
+
+The goal of ORDS is to bundle regional expertise in the fields of data analysis and statistics with open and reproducible science in the Rostock science region. The focus is on the professional exchange of interested scientists. Besides general questions of data analysis, statistics and reproducibility, the network also focuses on programming environments such as R and Python. In addition to the actual data analysis, another central point is the management and versioning of data and source code. Modern tools such as the Git version control system, Jupyter notebooks and Docker containers can be used for this purpose.
+
+Due to the interdisciplinary character of modern data-driven science, the network explicitly addresses all disciplines.
+The kick-off event takes place in cooperation with the [Graduate Academy of the University of Rostock](https://www.uni-rostock.de/en/research/support-of-early-career-researchers/translate-to-english-graduiertenakademie/).
 
 ![Virtual kick off meeting of the ORDS network on 1st December 2020](/assets/images/ORDS-flyer-kick-off.png)
 
@@ -71,14 +76,14 @@ Twitter: [@ReproHack](https://twitter.com/ReproHack)
 
 ![Anja Eggert](/assets/images/Anja_Eggert.png)
 
- ## Workshop: Reproducible Data Science with Jupyter Notebooks
+## Workshop: Reproducible Data Science with Jupyter Notebooks
 
- **Publishing not only the results, but also source code and data is central in the discussion about open science and the FAIR principles.** Literate programming is the concept of interweaving documentation, code, and data and, thus, fosters the publication of a comprehensive document containing not only the results of a research analysis, but the analysis itself. Jupyter notebooks are one implementation of this concept. This workshop employs Jupyter notebooks examples to illustrate these aspects.
+**Publishing not only the results, but also source code and data is central in the discussion about open science and the FAIR principles.** Literate programming is the concept of interweaving documentation, code, and data and, thus, fosters the publication of a comprehensive document containing not only the results of a research analysis, but the analysis itself. Jupyter notebooks are one implementation of this concept. This workshop employs Jupyter notebooks examples to illustrate these aspects.
 
- **Frank Krüger** is researcher at the Institute of Communications Engineering, University of Rostock with interests in research data management, natural language processing and provenance modelling. He works in the Infrastructure Support project of the CRC 1270 ELAINE and investigates how techniques of automatic information extraction and machine learning can be used for the documentation of research processes and the resulting data. Frank studied computer science and did his PhD about human activity and plan recognition from noisy sensor data.
+**Frank Krüger** is researcher at the Institute of Communications Engineering, University of Rostock with interests in research data management, natural language processing and provenance modelling. He works in the Infrastructure Support project of the CRC 1270 ELAINE and investigates how techniques of automatic information extraction and machine learning can be used for the documentation of research processes and the resulting data. Frank studied computer science and did his PhD about human activity and plan recognition from noisy sensor data.
 
- ![Frank Krüger](/assets/images/Frank_Krueger.jpg)
+![Frank Krüger](/assets/images/Frank_Krueger.jpg)
 
- **Max Schröder** is a doctoral researcher at the Infrastructure project of the CRC 1270 ELAINE with interests in provenance and semantic modeling, virtual research environments, and research data management in collaborative and interdisciplinary research projects. Before, he studied computer science at the University of Rostock with a specialization in Smart Computing. Besides his research, he promotes open and reproducible science in order to foster high quality research.
+**Max Schröder** is a doctoral researcher at the Infrastructure project of the CRC 1270 ELAINE with interests in provenance and semantic modeling, virtual research environments, and research data management in collaborative and interdisciplinary research projects. Before, he studied computer science at the University of Rostock with a specialization in Smart Computing. Besides his research, he promotes open and reproducible science in order to foster high quality research.
 
- ![Max Schröder](/assets/images/Max_Schroeder.jpg)
+![Max Schröder](/assets/images/Max_Schroeder.jpg)
