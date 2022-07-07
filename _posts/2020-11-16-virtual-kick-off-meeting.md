@@ -2,7 +2,7 @@
 title: "Virtual kick off meeting of the ORDS network on 1st December 2020"
 date: 2020-11-16T09:00:00+01:00
 categories:
-  - blog
+  - Blog
 tags:
   - kick-off
   - virtual
