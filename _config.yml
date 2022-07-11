@@ -26,6 +26,11 @@ minimal_mistakes_skin: air
 search: true
 logo: /assets/images/ords-logo-head.png
 og_image: /assets/images/ords-logo-large.png
+generatedFields:
+    date:
+      type               : "date"
+      options:
+        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 
 # Build settings
 markdown: kramdown
