@@ -2,6 +2,8 @@
 permalink: /about/
 title: "About"
 sidebar:
+  - title: "ORDS in MV"
+    text: "![ORDS in MV](/assets/images/ords-logo-large.png)"
   - title: "Speakers"
     text: >-
       **Dr.-Ing. Frank Krüger**<br>
@@ -11,7 +13,7 @@ sidebar:
       [to the Website](https://www.int.uni-rostock.de/Staff-Info.23+B6JmNIYXNoPTBjMDE3Njg3NjIyYWY0ZjNkOGNiOTM3ZTdjNWM1OWM0JnR4X2pwc3RhZmZfcGkxJTVCc2hvd1VpZCU1RD0xMjM_.0.html)<br><br>
 
       **Dr. rer. nat. Anja Eggert**<br>
-      Leibniz Institute for Farm Animal Biology (FBN)<br>
+      Research Institute for Farm Animal Biology (FBN)<br>
       Institute of Genetics and Biometry<br>
       Head of the Service Group Statistical Counselling<br>
       [to the Website](https://www.fbn-dummerstorf.de/en/institutes/institute-of-genetics-and-biometry/units-and-groups/service-group-statistical-consulting/)

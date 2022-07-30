@@ -102,6 +102,7 @@ defaults:
       layout: single
       author_profile: false
       read_time: true
+      show_date: true
       comments: false
       share: false
       related: true
@@ -113,9 +114,9 @@ defaults:
       layout: single
       author_profile: false
 
-category_archive:
-  type: liquid
-  path: /categories/
+# category_archive:
+#   type: liquid
+#   path: /categories/
 tag_archive:
   type: liquid
   path: /tags/

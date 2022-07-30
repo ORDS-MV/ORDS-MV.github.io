@@ -2,7 +2,7 @@
 title: "Virtual kick off meeting of the ORDS network on 1st December 2020"
 date: 2020-11-16T09:00:00+01:00
 categories:
-  - blog
+  - Blog
 tags:
   - kick-off
   - virtual
@@ -25,16 +25,16 @@ The kick-off event takes place in cooperation with the [Graduate Academy of the 
 |--|--|
 | 9:00 a.m. | **Opening & Words of Welcome**<br>[Vice Rector für Research and Transfer of Knowledge](https://www.uni-rostock.de/universitaet/organisation/rektorat/prorektoren/prof-dr-rer-nat-udo-kragl/), Udo Kragl |
 | 9:10 a.m. | **What is the ORDS network?**<br>Anja Eggert and Frank Krüger |
-| 9:25 a.m. | **Keynote: Let's become (Open) Science Champions!**<br> Heidi Seibold |
-| 9:55 a.m. | **Project: Let’s organize a ReproHack in Rostock!**<br> ReproHack Scientist |
-| 10:25 a.m. | **Workshop: Reproducible statistical data analysis with R and RMarkdown**<br>Anja Eggert |
+| 9:25 a.m. | [**Keynote: Let's become (Open) Science Champions!**](#keynote-lets-become-open-science-champions)<br>Heidi Seibold |
+| 9:55 a.m. | [**Project: Let’s organize a ReproHack in Rostock!**](#project-lets-organize-a-reprohack-in-rostock)<br>ReproHack Scientist |
+| 10:25 a.m. | [**Workshop: Reproducible statistical data analysis with R and RMarkdown**](#workshop-reproducible-statistical-data-analysis-with-r-and-rmarkdown)<br>Anja Eggert |
 
 **Afternoon: 1:00 - 4:00 p.m.**
 
 | Time | Description |
 |--|--|
-|1:00 p.m. | **Keynote: Reproducibility and Peer Review**<br>Daniel Nüst |
-| 1:30 p.m. | **Workshop: Reproducible Data Science with Jupyter Notebooks**<br>Frank Krüger and Max Schröder |
+|1:00 p.m. | [**Keynote: Reproducibility and Peer Review**](#keynote-reproducibility-and-peer-review)<br>Daniel Nüst |
+| 1:30 p.m. | [**Workshop: Reproducible Data Science with Jupyter Notebooks**](#workshop-reproducible-data-science-with-jupyter-notebooks)<br>Frank Krüger and Max Schröder |
 | 3:30 p.m. | **Future Perspectives & Closing Remarks**<br>Anja Eggert and Frank Krüger |
 
 ## Keynote: Let's become (Open) Science Champions!
