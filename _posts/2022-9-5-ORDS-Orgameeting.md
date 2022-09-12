@@ -10,7 +10,7 @@ tags:
 
 # Upcoming events
 
-We would like to inform you about some cool upcoming events in the next months.
+On Monday, 05.09.2022, the ORDS organisation team had a meeting. Mostly we would like to share and inform you about some cool upcoming events in the next months.
 
 * Industry Day at the iWOAR conference
   * 20.09.2022, Rostock
