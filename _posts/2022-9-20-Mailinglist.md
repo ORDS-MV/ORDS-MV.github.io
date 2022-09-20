@@ -1,6 +1,5 @@
 ---
 title: "ORDS Communication channels"
-date: 2022-09-20T20:00:00+01:00
 categories:
   - Blog
 tags:
