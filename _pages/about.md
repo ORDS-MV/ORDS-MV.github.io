@@ -6,11 +6,11 @@ sidebar:
     text: "![ORDS in MV](/assets/images/ords-logo-large.png)"
   - title: "Speakers"
     text: >-
-      **Dr.-Ing. Frank Krüger**<br>
-      University of Rostock<br>
-      Faculty of Computer Science and Electrical Engineering<br>
-      Institute of Communications Engineering<br>
-      [to the Website](https://www.int.uni-rostock.de/Staff-Info.23+B6JmNIYXNoPTBjMDE3Njg3NjIyYWY0ZjNkOGNiOTM3ZTdjNWM1OWM0JnR4X2pwc3RhZmZfcGkxJTVCc2hvd1VpZCU1RD0xMjM_.0.html)<br><br>
+      **Prof. Dr.-Ing. Frank Krüger**<br>
+      Wismar University of Applied Sciences<br>
+      Faculty of Engineering<br>
+      Department of Electrical Engineering and Computer Science<br>
+      [to the Website](https://fiw.hs-wismar.de/bereiche/eui/personen-gremien/prof-dr-ing-frank-krueger/)<br><br>
 
       **Dr. rer. nat. Anja Eggert**<br>
       Research Institute for Farm Animal Biology (FBN)<br>
@@ -28,5 +28,8 @@ Besides the actual data analysis, another central point is the management and ve
 Modern tools such as the Git version control system, Jupyter notebooks and Docker containers can be used for this purpose.
 
 We want to meet at regular intervals and inform each other about current projects and methods in the field of data analysis and statistics.
-Furthermore, we will organize seminars, workshops and other events e.g. at the Graduate Academy at the University of Rotock or with experts in the topics of ORDS.
+Furthermore, we will organize seminars, workshops and other events e.g. at the Graduate Academy at the University of Rostock or with experts in the topics of ORDS.
+
+*Join the ORDS-MV Mailinglist* at https://www.listserv.dfn.de/sympa/subscribe/ords-mv
+
 
