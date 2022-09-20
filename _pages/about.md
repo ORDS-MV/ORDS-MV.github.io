@@ -30,6 +30,6 @@ Modern tools such as the Git version control system, Jupyter notebooks and Docke
 We want to meet at regular intervals and inform each other about current projects and methods in the field of data analysis and statistics.
 Furthermore, we will organize seminars, workshops and other events e.g. at the Graduate Academy at the University of Rostock or with experts in the topics of ORDS.
 
-*Join the ORDS-MV Mailinglist* at https://www.listserv.dfn.de/sympa/subscribe/ords-mv
+[*Join the ORDS-MV Mailinglist*]("https://www.listserv.dfn.de/sympa/subscribe/ords-m)
 
 
