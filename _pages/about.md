@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 sidebar:
   - title: "ORDS in MV"
-    text: "![ORDS in MV](/assets/images/ords-logo-large.png)"
+    text: "![ORDS in MV](/assets/images/ordsmv-hex-sticker.png)"
   - title: "Speakers"
     text: >-
       **Prof. Dr.-Ing. Frank Krüger**<br>
