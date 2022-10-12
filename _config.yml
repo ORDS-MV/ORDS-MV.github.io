@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 github_username: ORDS-MV
 minimal_mistakes_skin: air
 search: true
-logo: /assets/images/ords-logo-head.png
+logo: /assets/images/ordsmv-hex-sticker.png
 og_image: /assets/images/ords-logo-large.png
 
 # Build settings
@@ -63,7 +63,7 @@ plugins:
 
 author:
   name   : "ORDS-MV"
-  avatar : "/assets/images/ords-logo-large.png"
+  avatar : "/assets/images/ordsmv-hex-sticker.png"
   bio    : "Open Reproducible Data Science and Statistics network in MV"
   location : "MV, Germany"
   links:
