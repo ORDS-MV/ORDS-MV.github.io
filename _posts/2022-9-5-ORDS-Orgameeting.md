@@ -30,6 +30,5 @@ On Monday, 05.09.2022, the ORDS organisation team had a meeting. Mostly we would
 
 * ORDS Birthday
   * 01.12.2022, Rostock
-  * Wait for it ;)
 
 ![2022_09_05_ordsmeeting.jpg](/assets/images/2022_09_05_ordsmeeting.jpg)
