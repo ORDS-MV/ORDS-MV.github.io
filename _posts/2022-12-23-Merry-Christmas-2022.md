@@ -1,12 +1,11 @@
 ---
-title: "ORDS Communication channels"
+title: "Merry Christmas ORDS-Community
+"
 categories:
   - Blog
 tags:
   - christmas
 ---
-
-# Merry Christmas ORDS-Community
 
 ![Merry Christmas](/assets/images/2022-12-24_ORDS-Christmas.png)
 
@@ -14,7 +13,7 @@ The year 2022 is coming to an end and we want to thank you for your great partic
 
 We hope to continue this path together with you next year, at local and regional events: learning, sharing, and further developing and experiencing open and reproducible research.
 
-You want to become more active in the network yourself? You are welcome to contact Frank or Anja: https://ords-mv.github.io/about/
+You want to become more active in the network yourself? You are welcome to contact Frank or Anja: [https://ords-mv.github.io/about/](/about/)
 
 We wish you and your families happy holidays and a healthy start into the new year.
 
