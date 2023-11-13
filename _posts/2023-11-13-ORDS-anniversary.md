@@ -26,10 +26,10 @@ Register soon in order to get one of the limited seats and spread the word about
 | 10:00 am | Break |
 | 10:15 am | [**Hands-on workshop: Improve collaboration using Git and Gitlab – Part 1**](#hands-on-workshop-improve-collaboration-using-git-and-gitlab)<br>[Tobias Schlauch](https://www.dlr.de/sc/desktopdefault.aspx/tabid-1192/1635_read-25578/sortby-lastname/), Research Software Engineer, German Aerospace Center - Helmholtz Association |
 | 12:15 pm | Lunch Break |
-| 1:00 pm | [**Input: Five selfish reasons to join an open science initiative**](#input-five-selfish-reasons-to-join-an-open-science-initiative)<br>[Esther Plomp](https://www.tudelft.nl/en/staff/e.plomp/), Data Steward, Delft University of Technology - The Netherlands |
+| 1:00 pm | [**Keynote: Five selfish reasons to join an open science initiative**](#keynote-five-selfish-reasons-to-join-an-open-science-initiative)<br>[Esther Plomp](https://www.tudelft.nl/en/staff/e.plomp/), Data Steward, Delft University of Technology - The Netherlands |
 | 1:30 pm | **How can we improve networking in Mecklenburg-Vorpommern**<br>all participants |
 | 2:30 pm | [**Hands-on workshop: Improve collaboration using Git and Gitlab – Part 2**](#hands-on-workshop-improve-collaboration-using-git-and-gitlab)<br>[Tobias Schlauch](https://www.dlr.de/sc/desktopdefault.aspx/tabid-1192/1635_read-25578/sortby-lastname/), Research Software Engineer, German Aerospace Center - Helmholtz Association |
-
+| 4:30 pm | **Farewell** |
 
 
 ## Keynote: Quality research need good working conditions
