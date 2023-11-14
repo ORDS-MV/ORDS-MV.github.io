@@ -21,15 +21,15 @@ Register soon in order to get one of the limited seats and spread the word about
 
 | Time | Description |
 |--|--|
-| 9:00 am | **Welcome**<br> [Prof. Dr. Elizabeth Prommer](https://www.uni-rostock.de/en/university/organization/rectorate/rector-1/), Rector of the University of Rostock |
-| 9:15 am | [**Keynote: Quality research need good working conditions**](#keynote-quality-research-need-good-working-conditions)<br>[Rima-Maria Rahal](https://www.coll.mpg.de/rima-maria-rahal), Social psychologist & Open scientist, Max Planck Institute for Research on Collective Goods |
-| 10:00 am | Break |
-| 10:15 am | [**Hands-on workshop: Improve collaboration using Git and Gitlab – Part 1**](#hands-on-workshop-improve-collaboration-using-git-and-gitlab)<br>[Tobias Schlauch](https://www.dlr.de/sc/desktopdefault.aspx/tabid-1192/1635_read-25578/sortby-lastname/), Research Software Engineer, German Aerospace Center - Helmholtz Association |
-| 12:15 pm | Lunch Break |
-| 1:00 pm | [**Keynote: Five selfish reasons to join an open science initiative**](#keynote-five-selfish-reasons-to-join-an-open-science-initiative)<br>[Esther Plomp](https://www.tudelft.nl/en/staff/e.plomp/), Data Steward, Delft University of Technology - The Netherlands |
-| 1:30 pm | **How can we improve networking in Mecklenburg-Vorpommern**<br>all participants |
-| 2:30 pm | [**Hands-on workshop: Improve collaboration using Git and Gitlab – Part 2**](#hands-on-workshop-improve-collaboration-using-git-and-gitlab)<br>[Tobias Schlauch](https://www.dlr.de/sc/desktopdefault.aspx/tabid-1192/1635_read-25578/sortby-lastname/), Research Software Engineer, German Aerospace Center - Helmholtz Association |
-| 4:30 pm | **Farewell** |
+| 9:00 | **Welcome**<br> [Prof. Dr. Elizabeth Prommer](https://www.uni-rostock.de/en/university/organization/rectorate/rector-1/), Rector of the University of Rostock |
+| 9:15 | [**Keynote: Quality research need good working conditions**](#keynote-quality-research-need-good-working-conditions)<br>[Rima-Maria Rahal](https://www.coll.mpg.de/rima-maria-rahal), Social psychologist & Open scientist, Max Planck Institute for Research on Collective Goods |
+| 10:00 | Break |
+| 10:15 | [**Hands-on workshop: Improve collaboration using Git and Gitlab – Part 1**](#hands-on-workshop-improve-collaboration-using-git-and-gitlab)<br>[Tobias Schlauch](https://www.dlr.de/sc/desktopdefault.aspx/tabid-1192/1635_read-25578/sortby-lastname/), Research Software Engineer, German Aerospace Center - Helmholtz Association |
+| 12:15 | Lunch Break |
+| 13:00 | [**Keynote: Five selfish reasons to join an open science initiative**](#keynote-five-selfish-reasons-to-join-an-open-science-initiative)<br>[Esther Plomp](https://www.tudelft.nl/en/staff/e.plomp/), Data Steward, Delft University of Technology - The Netherlands |
+| 13:30 | **How can we improve networking in Mecklenburg-Vorpommern**<br>all participants |
+| 14:30 | [**Hands-on workshop: Improve collaboration using Git and Gitlab – Part 2**](#hands-on-workshop-improve-collaboration-using-git-and-gitlab)<br>[Tobias Schlauch](https://www.dlr.de/sc/desktopdefault.aspx/tabid-1192/1635_read-25578/sortby-lastname/), Research Software Engineer, German Aerospace Center - Helmholtz Association |
+| 16:30 | **Farewell** |
 
 
 ## Keynote: Quality research need good working conditions
