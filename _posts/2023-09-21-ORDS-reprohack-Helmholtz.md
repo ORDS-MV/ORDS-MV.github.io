@@ -14,3 +14,5 @@ tags:
 We were part of the Course Package 1: Reproducibility in Science!!
 
 "This course package introduces you to the topic of Reproducibility in Science. Coming from a metaperspective on the topic to more concrete information on how to make your research more reproducible, you can then roll up your sleeves and participate in our ReproHack- the **heart** of this course package."
+
+![ReproHack Agenda](/assets/images/reprohack-hackmd.png)
