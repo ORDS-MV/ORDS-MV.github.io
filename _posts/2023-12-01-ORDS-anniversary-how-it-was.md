@@ -18,7 +18,7 @@ We were really overwhelmed by the fantastic ORDS birthday event with you. We wer
 We would happily see you again at one of the following events or the regular ORDS meeting. Don't hesitate to contact us if you would love to get even more involved in the ORDS M-V network and contribute your ideas!
 
 [MV-Karte]
-[Foto-Treppe]
+![We say thank you!](/assets/images/2023_12_01_ORDS_Social_Media_Danke.png)
 
 Sincerely, the ORDS-MV birthday orga team:
 
@@ -33,5 +33,5 @@ Max Schröder (UB Rostock)
 
 Thanks to Tobias, we could off an exciting hands-on Git/GitLab workshop!
 
-![Workshop from Tobias Schlauch](/assets/images/2023_12_01_ORDS_Social_Media_Workshop.png)
+
 
