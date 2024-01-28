@@ -1,5 +1,5 @@
 ---
-title: "ORDS MV: 3rd anniversary on December 1st"
+title: "ORDS-MV: 3^{rd} birthday on 01-December 2023"
 categories:
   - Blog
 tags:
@@ -11,7 +11,7 @@ tags:
 **We have great news: ORDS-MV is celebrating it's 3rd anniversary with you!**
 
 Register soon in order to get one of the limited seats and spread the word about open and reproducible data science and statistics:<br>
-**Date:** December 1st, 2023 from 09:00am to 5:00pm<br>
+**Date:** 01-December-2023 from 09:00am to 5:00pm<br>
 **Location:** University of Rostock, Main Building, Universitätsplatz 1, 18055 Rostock; Room 104<br>
 **Registration via e-Mail:** stat-consult@fbn-dummerstorf.de
 
