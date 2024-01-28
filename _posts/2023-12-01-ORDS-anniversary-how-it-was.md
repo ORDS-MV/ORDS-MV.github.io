@@ -1,5 +1,5 @@
 ---
-title: "ORDS-MV: 3rd birthday on 01-December 2023 | A short review"
+title: "ORDS-MV: 3rd birthday on 01-December 2023 - A short review"
 categories:
   - Blog
 tags:
@@ -15,7 +15,7 @@ editor_options:
 
 We were really overwhelmed by the fantastic ORDS-MV birthday event with you. We were more than 30 participants from all over Mecklenburg-Vorpommern! You are the core of ORDS-MV and thus promote the essential topics of open science and reproducibility in all data science and statistics disciplines, as well as beyond!
 
-We would happily see you again at one of the following events or the regular ORDS meeting. Don't hesitate to contact us if you would love to get even more involved in the ORDS M-V network and contribute your ideas!
+We would happily see you again at one of the following events or the regular ORDS meeting. Don't hesitate to contact us if you would love to get even more involved in the ORDS-MV network and contribute your ideas!
 
 ![We say thank you!](/assets/images/2023_12_01_ORDS_Social_Media_Danke.png)
 
