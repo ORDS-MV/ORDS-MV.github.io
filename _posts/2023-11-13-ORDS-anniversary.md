@@ -1,5 +1,5 @@
 ---
-title: "ORDS-MV: 3^{rd} birthday on 01-December 2023"
+title: "ORDS-MV: 3rd birthday on 01-December 2023"
 categories:
   - Blog
 tags:
