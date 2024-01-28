@@ -13,7 +13,7 @@ The open monthly meetings aim to improve the exchange of information within ORDS
 In January 2024 we (virtually) discussed the following topics:
 
 * Topics were:
-  * Electronic Lab Notebooks (ELN) and a flexible solution using LIMS (https://demo.wiki.labinform.de/index) and ELN (https://eln.labinform.de/)
+  * Electronic Lab Notebooks (ELN) and a flexible solution using [LIMS] (https://demo.wiki.labinform.de/index) and [ELN] (https://eln.labinform.de/)
   * Setting up Research Data Management in a research institute from the scratch. What is a good strategy? What are valuable use cases?
 
 Thanks to all participants and looking forward to meeting you at the next monthly meeting or event.
