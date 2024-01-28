@@ -5,9 +5,10 @@ categories:
   - Monthly-Meeting
 tags:
   - ELN
+  - RDM
 ---
 
-The open monthly meetings aim to improve the exchange of information within ORDS-MV. This platform should serve for all interested parties to exchange information around the topics from ORDS (Open Reproducible Data Science and Statistics), to discuss questions, to express wishes and to make plans.
+The open monthly meetings aim to improve the exchange of information within ORDS-MV. This platform should serve for all interested people (students, post docs, senior scientists, professors,..) to exchange information around the topics of Open Reproducible Data Science and Statistics, to discuss questions, to express wishes and to make plans.
 
 In January 2024 we (virtually) discussed the following topics:
 
