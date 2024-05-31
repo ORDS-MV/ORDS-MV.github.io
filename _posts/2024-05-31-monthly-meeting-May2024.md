@@ -15,6 +15,6 @@ In May 2024 we (virtually) discussed the following topics:
 * NFDI activities in MV, esp. NFDI4Biodiversity at IOW and FBN
 * 16S rRNA Gene Metabarcoding
 * gfbio.eV, German federation of Biological Data: https://www.gfbio.org/gfbio_ev/, IOW and FBN are members
-* NORD digital convention in Rostock 29.-30.05.2024: https://www.digitalesmv.de/noerd
+* participation in NORD digital convention in Rostock 29.-30.05.2024: https://www.digitalesmv.de/noerd
 
 Thanks to all participants and looking forward to meeting you at the next monthly meeting or event.
