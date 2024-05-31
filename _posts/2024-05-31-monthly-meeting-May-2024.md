@@ -1,6 +1,6 @@
 ---
 title: "Open Monthly Meeting Notes: May 2024"
-date: 2024-05-31T15:00:00+01:00
+date: 2024-05-31T13:00:00+01:00
 categories:
   - Monthly-Meeting
 tags:
