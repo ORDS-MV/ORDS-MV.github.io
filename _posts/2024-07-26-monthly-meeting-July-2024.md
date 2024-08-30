@@ -6,7 +6,7 @@ categories:
 tags:
   - CKAN
   - Networking
-  - Workshop
+  - ORDS-Workshop
 ---
 
 The open monthly meetings aim to improve the exchange of information within ORDS-MV. This platform should serve for all interested people (students, post docs, senior scientists, professors,..) to exchange information around the topics of Open Reproducible Data Science and Statistics, to discuss questions, to express wishes and to make plans.
