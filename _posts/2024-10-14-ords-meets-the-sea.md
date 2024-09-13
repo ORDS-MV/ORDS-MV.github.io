@@ -1,6 +1,6 @@
 ---
 title: "ORDS meets the sea"
-date: 2024-10-14T09:30:00+01:00
+date: 2024-09-13T17:00:00+01:00
 categories:
   - Blog
 tags:
@@ -44,13 +44,6 @@ Register soon in order to get one of the limited seats and spread the word about
 **Further details soon available at:** https://ords-mv.github.io/<br>
 
 Looking forward to an awesome day with you.
-
-Your Orga Team:
-Anja Eggert
-Christiane Hassenrück
-Frank Krüger
-Manuela Reichelt
-Max Schröder
 
 
 ## Programm
