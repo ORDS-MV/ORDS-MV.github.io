@@ -14,8 +14,6 @@ editor_options:
     wrap: sentence
 ---
 
-# ORDS meets the sea
-
 ![ORDS meets the sea](/assets/images/2024-10-14-ORDS_Sea.png)
 
 Dear Open and Reproducible Data Science and Statistics enthusiasts,
