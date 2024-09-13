@@ -1,6 +1,6 @@
 ---
 title: "ORDS meets the sea"
-date: 2024-09-13T17:00:00+01:00
+date: 2024-09-12T17:00:00+01:00
 categories:
   - Blog
 tags:
