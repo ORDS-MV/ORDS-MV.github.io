@@ -37,12 +37,12 @@ Register soon in order to get one of the limited seats and spread the word about
 | 9:30 | **Welcome & more**<br> [Dr. Christiane Hassenrück](https://www.io-warnemuende.de/christiane-hassenrueck.html), Leibniz Institute for Baltic Sea Research Warnemünde (IOW) |
 | 9:45 | [**Workshop: Georeferenced oceanographic data resources at IOW**](#workshop-georeferenced-oceanographic-data-resources-at-iow)  <br>[Dr. Susanne Feistel](https://www.io-warnemuende.de/susanne-feistel.html), Leibniz Institute for Baltic Sea Research Warnemünde (IOW) |
 | 10:45 | Coffee Break |
-| 11:00 | [**Workshop: Making Maps with Open Data and Open Source Software: R and QGIS (part 1)**](#making-maps-with-open-data-and-open-source-software-r-and-qgis)<br> [Dr. Anja Eggert](https://www.fbn-dummerstorf.de/mitarbeitende/anja-eggert/), Research Institute for Farm Animal Biology (FBN) |
-| 12:00 | [**Keynote: National data for international science - the example of fisheries research**](#national-data-for-international-science---the-example-of-fisheries-research) <br> [Dr. Christian von Dorrien](https://www.thuenen.de/en/institutes/baltic-sea-fisheries/staff/scientific/dorrien-christian-von-dr), Institute of Baltic Sea Fisheries (Thünen Institute) |
+| 11:00 | [**Workshop: Making Maps with Open Data and Open Source Software: R and QGIS (part 1)**](#workshop-making-maps-with-open-data-and-open-source-software-r-and-qgis)<br> [Dr. Anja Eggert](https://www.fbn-dummerstorf.de/mitarbeitende/anja-eggert/), Research Institute for Farm Animal Biology (FBN) |
+| 12:00 | [**Keynote: National data for international science - the example of fisheries research**](#keynote-national-data-for-international-science---the-example-of-fisheries-research) <br> [Dr. Christian von Dorrien](https://www.thuenen.de/en/institutes/baltic-sea-fisheries/staff/scientific/dorrien-christian-von-dr), Institute of Baltic Sea Fisheries (Thünen Institute) |
 | 13:00 | Lunch Break |
-| 14:00 | [**Workshop: Making Maps with Open Data and Open Source Software: R and QGIS (part 2)**](#making-maps-with-open-data-and-open-source-software-r-and-qgis)<br>[Dr. Anja Eggert](https://www.fbn-dummerstorf.de/mitarbeitende/anja-eggert/), Research Institute for Farm Animal Biology (FBN)
+| 14:00 | [**Workshop: Making Maps with Open Data and Open Source Software: R and QGIS (part 2)**](#workshop-making-maps-with-open-data-and-open-source-software-r-and-qgis)<br>[Dr. Anja Eggert](https://www.fbn-dummerstorf.de/mitarbeitende/anja-eggert/), Research Institute for Farm Animal Biology (FBN)
 | 15:00 | Coffee Break |
-| 15:15 | [**Demo: Foundation Models: Repositories, APIs and Fine-Tuning**](#foundation-models-repositories-apis-and-fine-tuning)<br>[JProf. Stefan Lüdtke](https://www.mds-lab.de/), University of Rostock, Institute for Visual and Analytic Computing, Marine Data Science |
+| 15:15 | [**Demo: Foundation Models: Repositories, APIs and Fine-Tuning**](#demo-foundation-models-repositories-apis-and-fine-tuning)<br>[JProf. Stefan Lüdtke](https://www.mds-lab.de/), University of Rostock, Institute for Visual and Analytic Computing, Marine Data Science |
 | 15:45 | **Farewell** |
 | 16:00 | **Socializing with Pizza** |
 
