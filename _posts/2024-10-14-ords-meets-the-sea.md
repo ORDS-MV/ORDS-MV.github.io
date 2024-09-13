@@ -2,13 +2,16 @@
 title: "ORDS meets the sea"
 date: 2024-10-14T09:30:00+01:00
 categories:
-  - workshop
+  - Blog
 tags:
   - workshop
   - Networking
   - ORDS-Workshop
   - R
   - IOW
+editor_options: 
+  markdown: 
+    wrap: sentence
 ---
 
 # ORDS meets the sea
