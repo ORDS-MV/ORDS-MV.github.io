@@ -67,6 +67,8 @@ We will explore the quickest ways to access and visualize geospatial marine data
 ### Keynote: National data for international science - the example of fisheries research
 **Dr. Christian von Dorrien, Institute of Baltic Sea Fisheries (Thünen-Institut)**
 
+![Dr. Christian von Dorrien](/assets/images/ChristianvonDorrien.png)
+
 For over 100 years, the countries bordering the North Atlantic have recognized that the sustainable use of fish stocks can only work in an international cooperation. The Thünen Institute of Baltic Sea Fisheries contributes significantly to this by collecting "fishery-independent" data on economically important fish stocks such as herring, sprat and cod on German standard research cruises. This data is quality-checked and then uploaded to databases at the International Council for the Exploration of the Sea (ICES) so that it is available to the international research community. In addition, the Thünen Institute of Baltic Sea Fisheries has many data sets that are collected as part of other scientific studies, but which are currently not easily found and available. The Thünen Institute is therefore currently developing its own research data management system to make this data available to the research community.
 
 
