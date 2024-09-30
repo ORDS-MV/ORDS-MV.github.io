@@ -16,7 +16,7 @@ sidebar:
       Research Institute for Farm Animal Biology (FBN)<br>
       Institute of Genetics and Biometry<br>
       Head of the Service Group Statistical Counselling<br>
-      [to the Website](https://www.fbn-dummerstorf.de/en/institutes/institute-of-genetics-and-biometry/units-and-groups/service-group-statistical-consulting/)
+      [to the Website](https://www.fbn-dummerstorf.de/en/institutes/institute-of-genetics-and-biometry/units-and-groups/service-group-statistical-consulting/)<br><br>
 
       **M.Sc. Max Schröder**<br>
       University Library Rostock<br>
