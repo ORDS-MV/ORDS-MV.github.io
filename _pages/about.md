@@ -17,6 +17,12 @@ sidebar:
       Institute of Genetics and Biometry<br>
       Head of the Service Group Statistical Counselling<br>
       [to the Website](https://www.fbn-dummerstorf.de/en/institutes/institute-of-genetics-and-biometry/units-and-groups/service-group-statistical-consulting/)
+
+      **M.Sc. Max Schröder**<br>
+      University Library Rostock<br>
+      University of Rostock<br>
+      Team Research Data<br>
+      [to the Website](https://www.ub.uni-rostock.de/wissenschaftliche-services/forschungsdaten/forschungsdaten/)
 ---
 
 **Open Reproducible Data Science and Statistics (ORDS) is a scientific network in Mecklenburg-Vorpommern. Its goal is to bundle regional expertise in the fields of data analysis and statistics with open and reproducible science. The focus is on the exchange of expertise between doctoral candidates and postdocs, but all other interested scientists are also welcome.**
