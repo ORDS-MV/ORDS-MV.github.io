@@ -15,6 +15,7 @@ In September 2024 we (virtually) discussed the following topics:
 * We finalized the preparation for our **ORDS meets the sea** workshop
 * We discussed about openly available resources for bibliometric analyses, for instance, [OpenAlex](https://openalex.org/) and [Scimago](https://www.scimagojr.com/),
 * Frank presented the progress of the project SwineBad, which was proposed by the ORDS team and is funded by [Text+](https://text-plus.org/)
+* We discussed about setting a fixed topic for future monthly meetings to keep the discussions focussed
 
 
 Thanks to all participants and looking forward to meeting you at the next monthly meeting or event.
