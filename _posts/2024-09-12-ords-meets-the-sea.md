@@ -49,7 +49,7 @@ Register soon in order to get one of the limited seats and spread the word about
 Looking forward to an awesome day with you.
 
 [**Download Flyer (PDF)**](/assets/files/20241014_ORDS-meets-the-sea.pdf)
-
+Update: [**Download Flyer (PDF)**](/assets/files/20241014_ORDS-meets-the-sea_update.pdf)
 
 
 ### Workshop: Georeferenced oceanographic data resources at IOW
