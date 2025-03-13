@@ -14,13 +14,13 @@ editor_options:
     wrap: sentence
 ---
 
-![ORDS meets the sea](/assets/images/2025_03_28_ORDS_Workflow.png)
+![ORDS meets the sea](/assets/images/2025_03_28_ORDS_Workflow.png) {fig-alt="ORDS manages workflows" width="500"}
 
-Dear Open and Reproducible Data Science and Statistics enthusiasts,
+Dear Open and Reproducible Data Science and Statistics enthusiasts, we have great news: *ORDS-MV* invites you to a seminar on workflow management in data science, featuring contributions on `Snakemake` and `Nextflow`!
+If you’re looking to improve the efficiency and scalability of your data workflows, this seminar is for you!
+We look forward to your participation.
 
-we have great news: ORDS-MV invites you to a seminar on workflow management in data science, featuring contributions on Snakemake and Nextflow!
-
-If you’re looking to improve the efficiency and scalability of your data workflows, this seminar is for you! We look forward to your participation.
+Yours ORDS-MV organizing team
 
 ## Details
 
@@ -32,17 +32,17 @@ It will take place **online** and no registration is necessary: [Zoom Link](http
 
 **Snakemake: Reproducible and Scalable Workflow Management**
 
-Snakemake is a Python-based workflow manager that helps you to formalize your data analysis in a reproducible, scalable, and portable way, including deployment on high-performance computing (HPC) facilities. In this session, **Christiane Hassenrück**, bioinformatician at the Leibniz Institute for Baltic Sea Research, Warnemünde (IOW) will introduce:
+Snakemake is a Python-based workflow manager that helps you to formalize your data analysis in a reproducible, scalable, and portable way, including deployment on high-performance computing (HPC) facilities.
+In this session, **Christiane Hassenrück**, bioinformatician at the Leibniz Institute for Baltic Sea Research, Warnemünde (IOW) will introduce:
 
-- The basics of the snakemake logic for defining workflows consisting of several interdependent analysis steps (rules)
-- Software integration via Conda
-- Workflow deployment on an HPC cluster
+-   The basics of the snakemake logic for defining workflows consisting of several interdependent analysis steps (rules)
+-   Software integration via Conda
+-   Workflow deployment on an HPC cluster
 
 **Nextflow: Flexible and Scalable Workflows for Science**
 
-Nextflow is a powerful workflow framework designed for scalability and flexibility, making it ideal for complex bioinformatics analyses. **Fabian Billenkamp**, bioinformatician at the Institute for Animal Nutrition, Friedrich-Loeffler-Institut (Braunschweig), will provide an easy-to-follow introduction, covering:
+Nextflow is a powerful workflow framework designed for scalability and flexibility, making it ideal for complex bioinformatics analyses.
+**Fabian Billenkamp**, bioinformatician at the Institute for Animal Nutrition, Friedrich-Loeffler-Institut (Braunschweig), will provide an easy-to-follow introduction, covering:
 
-- Nextflow’s core concepts and unique features
-- Practical workflow examples from microbiome and transcriptome research
-
-
+-   Nextflow’s core concepts and unique features
+-   Practical workflow examples from microbiome and transcriptome research
