@@ -1,6 +1,6 @@
 ---
 title: "Open Monthly Meeting Notes: August 2025"
-date: 2025-08-29T14:00:00+01:00
+date: 2025-08-29T13:00:00+01:00
 categories:
   - Monthly-Meeting
 tags:
