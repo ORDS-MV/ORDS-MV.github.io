@@ -4,13 +4,13 @@ date: 2025-08-29T14:00:00+01:00
 categories:
   - Monthly-Meeting
 tags:
-  - Data management
+  - Conferences
   - AI
 ---
 
 The open monthly meetings aim to improve the exchange of information within ORDS-MV. This platform should serve for all interested people (students, post docs, senior scientists, professors,..) to exchange information around the topics of Open Reproducible Data Science and Statistics, to discuss questions, to express wishes and to make plans.
 
-In May 2025 we (virtually) discussed the following topics:
+In August 2025 we (virtually) discussed the following topics:
 
 * **NFDI conferences** Many conferences take place the next couple of months: [CoRDI](https://www.nfdi.de/cordi-2025/), [NFDI4DS](https://www.nfdi4datascience.de/), [NFDI4Biodiversity meets NFDI4Earth](https://www.nfdi4biodiversity.org/de/events/joint-plenary-2025/), [KIDA-KON 2025](https://www.kida-bmel.de/veranstaltungen/kida-kon-2025).
 
