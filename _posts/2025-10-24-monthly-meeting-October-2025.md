@@ -1,5 +1,5 @@
 ---
-title: "Open Monthly Meeting Notes: August 2025"
+title: "Open Monthly Meeting Notes: October 2025"
 date: 2025-10-24T13:00:00+01:00
 categories:
   - Monthly-Meeting
