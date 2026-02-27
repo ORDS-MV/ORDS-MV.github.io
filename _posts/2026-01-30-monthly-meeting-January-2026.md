@@ -4,8 +4,8 @@ date: 2026-01-30T13:00:00+01:00
 categories:
   - Monthly-Meeting
 tags:
-  - Teaching FAIR data
-  - Licensing
+  - Data publishers
+  - Historic data
 ---
 
 The open monthly meetings aim to strengthen information exchange within ORDS-MV. The platform is open to all interested people (students, doctoral researchers, postdocs, senior scientists and professors, ...) who wish to discuss topics related to Open and Reproducible Data Science and Statistics. It provides space to share experiences, raise questions, articulate needs, and develop joint plans and initiatives.
