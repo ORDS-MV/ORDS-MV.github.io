@@ -12,9 +12,9 @@ The open monthly meetings aim to strengthen information exchange within ORDS-MV.
 
 In February 2026, we met virtually and discussed the following topics:
 
-* **Teaching FAIR Data Science:** We explored how to develop a modular course on FAIR Research Data Management (RDM). As a useful reference, we highlighted the publication [“Learning objective matrix on the topic of research data management (RDM) for the target groups students, PhDs and data stewards”](Zenodo record 8010617), which provides structured learning objectives for different target groups.
+* **Teaching FAIR Data Science:** We explored how to develop a modular course on FAIR Research Data Management (RDM). As a useful reference, we highlighted the publication [“Learning objective matrix on the topic of research data management (RDM) for the target groups students, PhDs and data stewards”](https://zenodo.org/records/8010617), which provides structured learning objectives for different target groups.
 
-* **Licensing:** Licensing remains a complex topic, particularly regarding different license types, their advantages and limitations, and the underlying legal framework. The report [“Veröffentlichung und Nachnutzung von Artvorkommensdaten am Beispiel des Fischartenatlas der Gesellschaft für Ichthyologie e.V., Wissenschaftliches Gutachten”](Zenodo record 14975978) is a useful reference as it is a practical example addressing publication and reuse of biodiversity data.
+* **Licensing:** Licensing remains a complex topic, particularly regarding different license types, their advantages and limitations, and the underlying legal framework. The report [“Veröffentlichung und Nachnutzung von Artvorkommensdaten am Beispiel des Fischartenatlas der Gesellschaft für Ichthyologie e.V., Wissenschaftliches Gutachten”](https://zenodo.org/records/14975978) is a useful reference as it is a practical example addressing publication and reuse of biodiversity data.
 
 * **European Conference on Data Science (ECDA) 2026:** The European Conference on Data Science will take place from 9–11 September 2026 at the University of Applied Sciences in Stralsund. We are planning to submit an ORDS session focusing on reproducible data analysis. More information here: [ECDA2026](https://ecda26.hochschule-stralsund.de/)
 
